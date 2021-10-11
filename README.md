@@ -1,6 +1,6 @@
 ## LARAVEL CODE SAMPLES
 
-Hi Robert,
+Hi,
 
 I have in this repository a few code samples that I would like to share with you.
 
